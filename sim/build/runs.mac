@@ -1,0 +1,8 @@
+/tracking/verbose 1
+/gun/momentumAmp 35 GeV
+/gun/position 0 0 20 m 
+/gun/direction  0 0 -20
+/run/beamOn 1
+
+
+
